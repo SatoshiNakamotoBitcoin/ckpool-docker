@@ -1,3 +1,3 @@
 #!/bin/bash
-docker build -t docker-ckpool:latest .
+docker build -t ckpool-docker:latest .
 exit 0
