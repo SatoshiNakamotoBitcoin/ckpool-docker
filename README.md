@@ -1,4 +1,4 @@
-# docker-ckpool
+# CKPool-Docker
 
 Run your own ckpool solo instance in a docker container
 
