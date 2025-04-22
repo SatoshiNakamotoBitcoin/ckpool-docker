@@ -5,8 +5,8 @@ Run your own ckpool solo instance in a docker container
 ## First steps
 
 1. Install Docker (see https://docs.docker.com/engine/install/ for details)
-2. Clone this repository: `git clone https://github.com/golden-guy/docker-ckpool.git`
-3. Build the container image with `./build_image.sh` or use a custom build command: `docker build -t docker-ckpool:latest .`
+2. Clone this repository: `git clone https://github.com/SatoshiNakamotoBitcoin/ckpool-docker.git`
+3. Build the container image with `./build_image.sh` or use a custom build command: `docker build -t ckpool-docker:latest .`
 
 ### Configuration
 The pool configuration file is located in conf/ckpool.conf
