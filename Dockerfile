@@ -3,7 +3,7 @@ FROM debian:11-slim
 
 ARG REPO=ckpool-solo
 ARG BRANCH=solobtc
-ARG REPO_URL=https://github.com/golden-guy/${REPO}.git
+ARG REPO_URL=https://github.com/SatoshiNakamotoBitcoin/${REPO}.git
 
 ENV BUILD_DIR=/var/build
 ENV BIN_DIR=/srv/ckpool
